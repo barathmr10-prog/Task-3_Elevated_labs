@@ -1,4 +1,4 @@
-# Task-3_Elevated_labs
+# Mini Task 3
 
 I have imported Requests and BeautifulSoup libraries
 I have taken the webpage of TimeOfIndia
